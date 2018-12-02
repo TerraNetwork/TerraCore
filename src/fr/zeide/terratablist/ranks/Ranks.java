@@ -6,6 +6,12 @@ public enum Ranks {
 	OWNER,
 	DEV,
 	ADMIN,
-	
+	LEADSTAFF,
+	LEADBUILD,
+	STAFF,
+	BUILD,
+	HOST,
+	TERRA,
+	DONATOR,
 	
 }
